@@ -1,0 +1,15 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project-specific files
+.Rproj.user/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Python cache (if any)
+__pycache__/
+*.pyc
